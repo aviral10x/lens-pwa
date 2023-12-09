@@ -1,4 +1,4 @@
-## PWA Lens Protocol example app
+## PWA Huddle Protocol example app
 
 A boilerplate combining [Lens Protocol](https://www.lens.xyz/), [WalletConnect](https://walletconnect.com/), [Privy](https://www.privy.io/), and [ShadCN UI](https://ui.shadcn.com/)
 
@@ -21,7 +21,7 @@ npm install # or yarn, etc..
 3. Configure environment variables for WalletConnect
 
 ```sh
-# rename .example.env.local to .env.local 
+# rename .example.env.local to .env.local
 NEXT_PUBLIC_WC_ID=
 ```
 
